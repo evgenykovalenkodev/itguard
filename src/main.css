@@ -42,8 +42,6 @@ header {
 }
 .backgr-line {
     position: absolute;
-    top: 50vh;
-    width: 100%;
 }
 .collapse a {
     color: #050505!important;
